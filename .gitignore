@@ -1,3 +1,5 @@
 target
 .idea
 idea
+err.log
+!/err.log
